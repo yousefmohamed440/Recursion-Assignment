@@ -10,5 +10,9 @@ I. Count Vowels -> O(n)
 J. Factorial -> O(n)  
 K. Max Number -> O(n)  
 L. Summation -> O(n)  
-N. Sum Of Matrix ->O(rc)
+N. Sum Of Matrix ->O(rc)  
+O. Fibonacci -> O(2^n)  
+O. Fibonacci Memoization -> O(n)
+
+
 
