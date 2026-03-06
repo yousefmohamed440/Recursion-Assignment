@@ -14,7 +14,7 @@ N. Sum Of Matrix ->O(rc)
 O. Fibonacci -> O(2^n)  
 O. Fibonacci Memoization -> O(n)  
 P. Log2 -> O(log n)  
-Q. 3n + 1 sequence
+Q. 3n + 1 sequence -> O(log n)
 
 
 
