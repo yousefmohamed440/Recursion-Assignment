@@ -1,8 +1,8 @@
 #include <iostream>
-#include <vector>
+
 using namespace std;
 
-vector <long long> numbers(1000, -1);
+
 
 long long f(int n) {
 	if (n == 1) {
@@ -10,14 +10,11 @@ long long f(int n) {
 	}
 	else if (n == 2)
 	{
-		return 2;
+		return 1;
 	}
-	else if (numbers[n] != -1)
-	{
-		return numbers[n];
-	}
+	
 
-	return numbers[n] = f(n - 1) + f(n - 2);
+	return  f(n - 1) + f(n - 2);
 
 
 
