@@ -12,7 +12,9 @@ K. Max Number -> O(n)
 L. Summation -> O(n)  
 N. Sum Of Matrix ->O(rc)  
 O. Fibonacci -> O(2^n)  
-O. Fibonacci Memoization -> O(n)
+O. Fibonacci Memoization -> O(n)  
+P. Log2 -> O(log n)
+
 
 
 
