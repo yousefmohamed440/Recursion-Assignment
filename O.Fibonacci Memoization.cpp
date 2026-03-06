@@ -10,7 +10,7 @@ long long f(int n) {
 	}
 	else if (n == 2)
 	{
-		return 2;
+		return 1;
 	}
 	else if (numbers[n] != -1)
 	{
